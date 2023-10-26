@@ -109,7 +109,6 @@ img {
 
   .menu-close-btn {
     display: flex;
-    flex-shrink: 0;
     justify-content: center;
     align-items: center;
     width: 24px;
@@ -142,7 +141,6 @@ img {
     display: flex;
     flex-direction: column;
     gap: 40px;
-    margin-bottom: 50px;
   }
 
   .mob-menu-item {
