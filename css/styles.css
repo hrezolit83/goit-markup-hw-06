@@ -136,11 +136,16 @@ img {
     fill: #F4F4FD;
   }
 
+  .mob-mtnu-wrap {
+    flex-grow: 1;
+  }
+
 
   .mob-menu-list {
     display: flex;
     flex-direction: column;
     gap: 40px;
+    margin-bottom: 50px;
   }
 
   .mob-menu-item {
@@ -164,7 +169,7 @@ img {
     display: flex;
     flex-direction: column;
     gap: 24px;
-    margin-top: 168px;
+    
     margin-bottom: 48px;
   }
 
